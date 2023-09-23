@@ -1,0 +1,37 @@
+commit f8c2913ffbf2de42dbaf3f15f9fb862b80461a88
+Author: emelanovandrej <emelyanov_a@tochka.com>
+Date:   Sat Sep 23 10:52:57 2023 +0500
+
+    add test.txt
+
+commit a9393d946c99249c1e6999cebf8a691b06d5f0c4
+Author: emelanovandrej <emelyanov_a@tochka.com>
+Date:   Sat Sep 23 10:49:11 2023 +0500
+
+    Добавил .gitignore
+
+commit 46420c17a62a35f6fdad83d133488257405e07da
+Author: emelanovandrej <emelyanov_a@tochka.com>
+Date:   Sat Sep 23 10:47:37 2023 +0500
+
+    Revert "Добавил оценку сложности и название предмета"
+    
+    This reverts commit f305398ee4af6eecb92bb9b12cff7f6b3d0c020f.
+
+commit 6a208965957b3de789cea428e84476f1870c421e
+Author: emelanovandrej <emelyanov_a@tochka.com>
+Date:   Sat Sep 23 10:32:57 2023 +0500
+
+    Добавил номер аудитории
+
+commit f305398ee4af6eecb92bb9b12cff7f6b3d0c020f
+Author: emelanovandrej <emelyanov_a@tochka.com>
+Date:   Sat Sep 23 10:26:52 2023 +0500
+
+    Добавил оценку сложности и название предмета
+
+commit bc9e03d8b42deecea5783692198ea5f788509f56
+Author: emelanovandrej <emelyanov_a@tochka.com>
+Date:   Sat Sep 23 10:25:19 2023 +0500
+
+    Initial
